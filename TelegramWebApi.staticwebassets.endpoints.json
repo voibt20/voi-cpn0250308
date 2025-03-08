@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "assetsto/image.cipvow5b60.jpg",
+      "AssetFile": "assetsto/image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5DoADOWLm7FMi8kNfU9i1WH3Z3xQFcfJH+kiuUdWm8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:35:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cipvow5b60"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5DoADOWLm7FMi8kNfU9i1WH3Z3xQFcfJH+kiuUdWm8s="
+        },
+        {
+          "Name": "label",
+          "Value": "assetsto/image.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "assetsto/image.jpg",
+      "AssetFile": "assetsto/image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5DoADOWLm7FMi8kNfU9i1WH3Z3xQFcfJH+kiuUdWm8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 08:35:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5DoADOWLm7FMi8kNfU9i1WH3Z3xQFcfJH+kiuUdWm8s="
+        }
+      ]
+    }
+  ]
+}
